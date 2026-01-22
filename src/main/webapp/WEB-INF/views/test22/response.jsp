@@ -2,9 +2,8 @@
 <html>
 <head>
     <title>Title</title>
-    <meta charset="UTF-8">
 </head>
 <body>
-    여기는 TEST당^-^
+    RESPONSE 화면이야!
 </body>
 </html>
