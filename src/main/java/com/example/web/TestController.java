@@ -84,6 +84,7 @@ public class TestController {
     public ModelAndView test7(){
         // 옛날 방식.. 그냥 String return 합시다
         ModelAndView mv = new ModelAndView();
+        mv.addObject("data", 10);
         mv.setViewName("test7"); // test8.jsp 를 화면에 보여줘
         return mv;
     }
